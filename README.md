@@ -12,7 +12,8 @@ you can see on this [link]( )
 - Java 8+
 - IDE Intelij
 - Docker
-- Postgres Database (Docker Container)
+- MonngoDB (Docker Container)
+- MonngoExpress (Docker Container)
 - Postman 
 
 ### Dependency
