@@ -21,7 +21,7 @@ public class UserController {
     }
 
 
-    @PostMapping(value = "/save")
+    @PostMapping(value = "/add")
     public ResponseEntity<Response> save(@RequestBody User request) {
         return userService.save(request);
     }

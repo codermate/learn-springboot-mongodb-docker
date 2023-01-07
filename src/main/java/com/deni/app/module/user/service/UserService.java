@@ -7,23 +7,10 @@ import org.springframework.stereotype.Service;
 
 @Service
 public interface UserService {
-
-
     public ResponseEntity save(User requestDTO);
-
-
     public ResponseEntity update(Integer id, User requestDTO);
-
     public ResponseEntity delete(Integer id);
-
-
     public ResponseEntity getAll();
-
-
     public ResponseEntity findById(Integer id);
-
-
     public ResponseEntity deleteAll();
-
-
 }
