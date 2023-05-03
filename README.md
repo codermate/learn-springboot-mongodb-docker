@@ -5,7 +5,7 @@ On this repo we will learn how to create REST API using Springboot,
 that apis will have CRUD function for connecting and storing data to Mongo database. 
 
 If you want read the full articles all about this repo, 
-you can see on this article [https://deni-setiawan.medium.com](https://medium.com/@deni-setiawan/create-rest-api-using-springboot-and-mongodb-385f981aa3af )
+you can see on this article [article](https://medium.com/towardsdev/create-rest-api-using-springboot-and-mongodb-385f981aa3af)
 
 ### Requirements
 - Maven 3+
